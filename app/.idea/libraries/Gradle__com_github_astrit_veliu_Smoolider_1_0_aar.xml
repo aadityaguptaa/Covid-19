@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.astrit-veliu:Smoolider:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f2d407fc7c81618616266d40c6f3a973/Smoolider-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f2d407fc7c81618616266d40c6f3a973/Smoolider-1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.astrit-veliu/Smoolider/1.0/6ace1c9d31cef9538de8da30b70065e1c254ae26/Smoolider-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
